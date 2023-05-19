@@ -1,6 +1,5 @@
 .idea/
 assets/
-src/
 .eslintrc
 postcss.config.js
 webpack.config.js
